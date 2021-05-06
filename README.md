@@ -1,5 +1,7 @@
 # Ontology visualizer
 
+Visualize csv ontology graph, use react and d3.js
+
 ![](./public/ontology-visualizer.png)
 
 ## Requirements
